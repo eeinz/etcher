@@ -6318,6 +6318,9 @@ body {
   font-size: 11px;
   margin-bottom: 0; }
 
+.modal-update-notifier .modal-body a {
+  color: #5793db; }
+
 /*
  * Copyright 2016 resin.io
  *
